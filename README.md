@@ -58,11 +58,12 @@ The dataset contained spelling and formatting inconsistencies in Category and Pr
 Fixes Applied:
 Used PROPER() function for standardizing text
 Used Find & Replace to fix category variations
-|Incorrect Value	|Correct Value|
-|Electroni|	Electronics|
-|Electrioni|	Electronics|
-|Electronic|	Electronics|
-|electronics| Electronics|
+Ex:
+|Electroni|	
+|Electrioni|
+|Electronic|
+|electronics|
+|Electronics|
 
 ---
 
